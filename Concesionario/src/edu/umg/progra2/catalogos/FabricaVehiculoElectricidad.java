@@ -1,5 +1,11 @@
 package edu.umg.progra2.catalogos;
 
+/**
+ * <p> esta implementacion es la encargada de crear cada una de las instancias
+ * de vehiculos de la familia de los electricos</p>
+ * @author charly
+ *
+ */
 public class FabricaVehiculoElectricidad implements FabricaVehiculo {
 
 	@Override
